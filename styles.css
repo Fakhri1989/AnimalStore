@@ -1,8 +1,14 @@
 body{
-    background-color: teal;
+    background-color: lightcyan;
     text-align: center;
+    color: green;
 }
 
 img{
     width: 50%;
+    border: 1px solid black;
+}
+
+ul{
+    text-align: left;
 }
